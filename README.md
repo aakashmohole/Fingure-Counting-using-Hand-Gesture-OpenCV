@@ -45,5 +45,4 @@ git clone https://github.com/aakashmohole/Fingure-Counting-using-Hand-Gesture-Op
 
 ## Demo Image 📽️:
 
-![]()
-
+![](https://github.com/aakashmohole/Fingure-Counting-using-Hand-Gesture-OpenCV/blob/main/%5BOpenCV%5D%20Fingure%20Counting%20using%20Hand%20Gesture/fingerCount.jpg)
